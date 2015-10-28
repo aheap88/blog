@@ -2,6 +2,4 @@
 
 Ruby on rails blog application 
 
-Week 2 
-
-12 apps in 12 weeks
+Based on the 12 apps in 12 weeks tutorial challenge
